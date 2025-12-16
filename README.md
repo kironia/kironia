@@ -7,6 +7,7 @@
 ## Udemy
 
 - [x] [Concurrency, Multithreading and Parallel Computing in Java](https://www.udemy.com/certificate/UC-d9586c29-4504-4435-89a0-6825bed3dd83/ "Udemy Course Completion Certificate &#124; Udemy")
+- [x] [Decoding DevOps – From Basics to Advanced Projects with AI](https://www.udemy.com/certificate/UC-d8bc233c-4b6f-4e22-b36b-16ab093a1281/ "Udemy Course Completion Certificate &#124; Udemy")
 - [x] [Efficient Input/Output using JAVA IO, NIO and NIO2](https://www.udemy.com/certificate/UC-babb4eaf-6b2c-4302-9f45-244e0da4ad27/ "Udemy Course Completion Certificate &#124; Udemy")
 - [x] [Grafana 11 from ZERO to advanced](https://www.udemy.com/certificate/UC-34e8742c-ffc7-4795-af62-1eb09f047574/ "Udemy Course Completion Certificate &#124; Udemy")
 - [x] [Hibernate and Spring Data JPA: Beginner to Guru](https://www.udemy.com/certificate/UC-d9a63e3b-443c-483a-8dc5-99c4a49ab647/ "Udemy Course Completion Certificate &#124; Udemy")
