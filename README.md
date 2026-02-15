@@ -21,6 +21,7 @@
 - [x] [Spring Batch Mastery](https://www.udemy.com/certificate/UC-3a87d1c2-77f1-49a4-8c75-64066f29033d/ "Udemy Course Completion Certificate &#124; Udemy")
 - [x] [The Complete Perl Programming Course](https://www.udemy.com/certificate/UC-dbe60437-5a35-4250-b587-033ed303cf4a/ "Udemy Course Completion Certificate &#124; Udemy")
 - [x] [The Ultimate Apache Tomcat Training Course: All In One](https://www.udemy.com/certificate/UC-528e13a5-209e-48e0-8b4b-c65d824d5dc6/ "Udemy Course Completion Certificate &#124; Udemy")
+- [x] [Understanding TypeScript](https://www.udemy.com/certificate/UC-e35f1317-1816-49b4-95e6-9a5787d4dc25/ "Udemy Course Completion Certificate &#124; Udemy")
 
 ### Eclipse of theism
 
